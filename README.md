@@ -1,4 +1,4 @@
-Uppgift "FizzBuzz" - ChasAcademy - 20250910
+Uppgift "FizzBuzz" - ChasAcademy - 20250910 - Jordan Foose och Björn Blomberg
 
 Skriv ett program som skriver ut alla siffror från **1 till 100**.
 
